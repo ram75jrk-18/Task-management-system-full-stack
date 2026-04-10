@@ -1,0 +1,28 @@
+Week 3 Team Collaboration Updates
+
+Day 1:
+- Attended standup meeting
+- Finalized task management system scope
+- Created backend, frontend, and database folder structure
+- Designed user and task tables
+
+Day 2:
+- Developed user registration and login functionality
+- Added password hashing and validation
+- Tested authentication APIs
+
+Day 3:
+- Implemented task creation, assignment, listing, updating, and deletion
+- Added task status tracking (Pending, In Progress, Completed)
+- Connected task data with user records
+
+Day 4:
+- Integrated frontend forms with backend APIs
+- Added dashboard to view and update tasks
+- Performed integration testing and fixed errors
+
+Day 5:
+- Reviewed module functionality
+- Prepared GitHub repository structure
+- Updated README and project notes
+- Shared progress in standup and closed pending items
